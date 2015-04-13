@@ -1,0 +1,6 @@
+{
+"name": "wshl",
+"description": "repost wshl tweets",
+"repository": "https://github.com/jsquared/wshl",
+"keywords": ["node", "express", "static"]
+}
